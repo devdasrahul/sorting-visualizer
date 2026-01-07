@@ -2,9 +2,8 @@
 
 A clean, modern, and educational tool built with **Python** and **Pygame** to visualize how different sorting algorithms work in real-time. This project is designed to simplify complex **Data Structures & Algorithms (DSA)** concepts through interactive animation.
 
-![Sorting Visualizer Demo](https://via.placeholder.com/800x450?text=Sorting+Visualizer+Demo+Placeholder)
-*(Replace with actual screenshot)*
-
+![Sorting Visualizer Demo]
+<img width="1002" height="790" alt="Image" src="https://github.com/user-attachments/assets/dc42dc3a-eef1-4eac-b4a1-91af1a67cbb4" />
 ---
 
 ## 🚀 Features
@@ -90,8 +89,9 @@ This project allows users to visually verify theoretical concepts:
 ## 📸 Screenshots & Demos
 
 ### Video Demo
-![Sorting Visualizer Video Placeholder](https://via.placeholder.com/800x450?text=Video+Demo+Coming+Soon)
+![Sorting Visualizer Video]
+https://github.com/user-attachments/assets/c0089ba4-3f54-4f22-b659-f268e295fd4d
 
 ### App Screenshots
-![Main Interface](https://via.placeholder.com/800x450?text=Application+Screenshot+1)
-![Sorting In Progress](https://via.placeholder.com/800x450?text=Application+Screenshot+2)
+![Main Interface]<img width="1002" height="790" alt="Image" src="https://github.com/user-attachments/assets/bb38da92-675d-4f91-89f6-6d6342e3c25b" />
+![Sorting In Progress]<img width="1002" height="790" alt="Image" src="https://github.com/user-attachments/assets/1197780d-6fdf-4756-bec3-d4ff99a0896e" />
